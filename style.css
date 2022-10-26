@@ -1,0 +1,105 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.subtituloProjeto {
+  position: relative;
+  bottom: 3%;
+}
+
+.imagemCabecalho1 {
+  width: 90%;
+}
+
+.imagemCabecalho2 {
+  width: 90%;
+}
+
+.imgSlide2 {
+  height: 200px;
+  position: relative;
+  bottom: 7%;
+}
+
+.imageSlide2 {
+  height: 195px;  
+  position: relative;
+  bottom: 10%;
+}
+
+.container {
+  width: calc(100vw - 60px);
+  height: 100vh;
+  padding: 0 5%;
+  background: #13369E;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  border: 6px;
+  border-style: solid;
+  border-color: #F7931D;
+  color: white;
+  font-family: 'Barlow', sans-serif;
+  font-size: 1em;
+}
+
+.imagem-grafico {
+  width: 90%;
+}
+
+.link {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.botao {
+      justify-content: center;
+      display: flex;
+      background: #F7931D;
+      color: white;
+      border: 1px solid black;
+      border-radius: 25px;
+  }
+
+.botao:hover {
+    background-color: #ffbb00;
+  }
+
+
+.fatores li{
+  text-align:start;
+  
+}
+.imgSlide7{
+  
+  height: 150px;
+  padding-top: 2%;
+
+}
+
+.texto-carrossel {
+  position: absolute;
+}
+
+.panfleto {
+  width: 90%;
+}
+
+.panfleto2 {
+  width: 90%;
+}
+
+.footer {
+  height: 10em;
+}
+
+.slide11 {
+  display: flex;
+  flex-wrap: wrap;
+}
